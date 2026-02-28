@@ -75,7 +75,7 @@ El dashboard fue diseñado para proporcionar una visión integral del desempeño
 
 ## 🎥 Presentación del Proyecto
 
-- 📄 [Ver presentación ejecutiva (PDF)](presentation/Presentación_Análisis_de_Demanda_y_Eficiencia_Operativa_en_E_commerce_(UK).pdf)
+- 📄 [Ver presentación ejecutiva (PDF)](presentation/presentation/Presentación_Análisis_de_Demanda_y_Eficiencia_Operativa_en_E_commerce_(UK).pdf)
 - 📊 [Descargar archivo Power BI (.pbix)](powerbi/Dashboard_Análisis_de_ventas_y_Eficiencia_Operativa.pbix)
 
 ---
