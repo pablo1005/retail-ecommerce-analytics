@@ -70,7 +70,8 @@ El dashboard fue diseñado para proporcionar una visión integral del desempeño
 
 ## 🎥 Presentación del Proyecto
 
-https://1drv.ms/v/c/6cf9a26228474548/IQCeBHlUaIDgTa9d7Z03IakAAQiWqsb4ZPBf_BtorjqU_sw?e=QQXhag
+- 📄 [Ver presentación ejecutiva (PDF)](presentation/retail_analysis_presentation.pdf)
+- 📊 [Descargar archivo Power BI (.pbix)](powerbi/retail_dashboard.pbix)
 
 ---
 
