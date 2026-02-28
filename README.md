@@ -70,8 +70,8 @@ El dashboard fue diseñado para proporcionar una visión integral del desempeño
 
 ## 🎥 Presentación del Proyecto
 
-- 📄 [Ver presentación ejecutiva (PDF)](presentation/retail_analysis_presentation.pdf)
-- 📊 [Descargar archivo Power BI (.pbix)](powerbi/retail_dashboard.pbix)
+- 📄 [Ver presentación ejecutiva (PDF)](Presentación_Análisis_de_Demanda_y_Eficiencia_Operativa_en_E_commerce_(UK).pdf)
+- 📊 [Descargar archivo Power BI (.pbix)](powerbi/Dashboard_Análisis_de_ventas_y_Eficiencia_Operativa.pbix)
 
 ---
 
