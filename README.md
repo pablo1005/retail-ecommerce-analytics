@@ -56,6 +56,15 @@ El dashboard fue diseñado para proporcionar una visión integral del desempeño
 - Análisis ABC de productos
 - Concentración geográfica de ventas
 
+### 🔹 Resumen Ejecutivo
+
+![Executive Dashboard](images/Overview_Dashboard.jpg)
+
+---
+
+### 🔹 Reporte de Operaciones
+
+![Operations Dashboard](images/Operations_Dashboard.jpg)  
 ---
 
 ## 🎥 Presentación del Proyecto
