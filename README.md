@@ -58,13 +58,14 @@ El dashboard fue diseñado para proporcionar una visión integral del desempeño
 
 ### 🔹 Resumen Ejecutivo
 
-![Executive Dashboard](images/Overview_Dashboard.jpg)
+![Executive Dashboard](images/Overview_Dashboard.JPG)
 
 ---
 
 ### 🔹 Reporte de Operaciones
 
-![Operations Dashboard](images/Operations_Dashboard.jpg)  
+![Operations Dashboard](images/Operations_Dashboard.JPG)  
+
 ---
 
 ## 🎥 Presentación del Proyecto
