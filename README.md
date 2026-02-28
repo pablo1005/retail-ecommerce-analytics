@@ -1,5 +1,10 @@
 # Retail E-Commerce Analytics
 
+![SQL](https://img.shields.io/badge/SQL-Data%20Cleaning-blue)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboard-yellow)
+![DAX](https://img.shields.io/badge/DAX-Measures-orange)
+![Business Intelligence](https://img.shields.io/badge/Focus-Business%20Intelligence-green)
+
 ## 📌 Descripción del Proyecto
 
 Proyecto de análisis de datos enfocado en operaciones de retail e-commerce, con el objetivo de identificar patrones de ingresos, devoluciones y concentración de productos para la optimización operativa y toma de decisiones estratégicas.
