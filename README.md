@@ -43,12 +43,13 @@ Transformar datos transaccionales en información estratégica que permita:
 ---
 
 ## 📂 Estructura del Proyecto
-retail-ecommerce-analytics/
+
+```retail-ecommerce-analytics/
 │
 ├── sql/
 ├── powerbi/
 ├── presentation/
-└── images/
+└── images/```
 
 ---
 
@@ -76,7 +77,8 @@ El dashboard fue diseñado para proporcionar una visión integral del desempeño
 ## 🎥 Presentación del Proyecto
 
 - 📄 [Ver presentación ejecutiva (PDF)](presentation/Presentación_Análisis_de_Demanda_y_Eficiencia_Operativa_en_E_commerce_(UK).pdf)
-- 📊 [Descargar archivo Power BI (.pbix)](powerbi/Dashboard_Análisis_de_ventas_y_Eficiencia_Operativa.pbix)
+- 📊 [Descargar archivo Power BI (.pbix)](powerbi/Dashboard_Análisis_de_ventas_y_Eficiencia_Operativa.pbix)  
+  *(Una vez abierto, seleccionar “Download raw file”)*
 
 ---
 
