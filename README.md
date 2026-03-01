@@ -44,12 +44,12 @@ Transformar datos transaccionales en información estratégica que permita:
 
 ## 📂 Estructura del Proyecto
 
-```retail-ecommerce-analytics/
+retail-ecommerce-analytics/
 │
 ├── sql/
 ├── powerbi/
 ├── presentation/
-└── images/```
+└── images/
 
 ---
 
